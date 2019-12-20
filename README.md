@@ -38,7 +38,7 @@ To create the application you can use any of these technologies:
 - Please send your solution as a github repository link to tech.challenge@hubchain.com
 - also please don't fork this repo as other candidates could then start build on top of your solution ;-)
 
-Evaluation Criteria
+## Evaluation Criteria
 
 - Code Quality
 - Performance
